@@ -1,0 +1,14 @@
+Guru: guru@gmail.com password: guru1234
+Siswa: siswa@gmail.com password: siswa123
+
+Untuk menjaga keamanan sistem, pendaftaran akun Guru memiliki proteksi tambahan:
+
+Role Selection: User harus memilih role saat mendaftar (Guru/Siswa).
+
+Teacher Security Code: Jika memilih role Guru, user WAJIB memasukkan kode verifikasi:
+
+KODE: SPEKTRA2026
+
+Tanpa kode ini, akun guru tidak akan divalidasi oleh sistem.
+
+Public Access: Registrasi Siswa bersifat terbuka untuk seluruh siswa SMKN 1 Cimahi tanpa kode khusus.
